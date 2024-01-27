@@ -1,6 +1,7 @@
 module.exports = {
     title: "科技趣玩",
     description: "分享各类资源、教程、黑科技软件、工具等等",
+    base: "/how-to-register-a-chatgpt-account/",
     markdown: {
       lineNumbers: true,
     },
